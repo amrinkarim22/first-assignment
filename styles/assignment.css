@@ -184,3 +184,90 @@
 
     
 }
+.bucket-list-title{
+    text-align: center;
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 47px;
+    color: rgb(0, 0, 0);
+    margin-bottom: 150px;
+}
+.bucket-list-item{
+    display: flex;
+    justify-content: space-around;
+    margin-left: 50px;
+    margin-right: 50px;
+    object-position: center;
+
+}
+.list-pic{
+    border-radius: 20px;
+}
+.item-name{
+    text-align: center;
+    margin-top: 40px;
+    font-size: 20px;
+    font-weight: 600;
+    margin-bottom: 200px;
+}
+.footer{
+    gap: 330px;
+    display: flex;
+    color: white;
+    background-image: url(/images/black.jpg);
+    width: 1500px;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-top: 40px;
+    padding-bottom: 50px;
+}
+.future-title{
+font-weight: 700;
+font-size: 45px;
+line-height: 53px;
+padding-bottom: 16px;
+}
+
+.future-subtitle{
+font-weight: 400;
+font-size: 16px;
+line-height: 26px;
+margin-bottom: 24px;
+}
+.future-icons{
+    gap:40px;
+}
+.email-phone{
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 26px;
+    margin-bottom: 20px;
+}
+.form-info{
+    display: grid;
+}
+.form-title{
+    font-weight: 700;
+    font-size: 45px;
+    line-height: 53px;
+}
+.form-info input[type="email"]{
+     text-align: center;
+     margin-bottom: 24px;
+     border: white solid 2px;
+     border-radius: 5px;
+     width: 200px;
+     padding: 18px 30px;
+     color: white;
+     background-color: black;
+}
+.white-subs{
+
+    text-align: center;
+    color: orangered;
+    border: 2px solid orangered;
+    border-radius:5px ;
+    width: 150px;
+    height: 60px;
+    background-color: white;
+}
