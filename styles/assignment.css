@@ -1,0 +1,186 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Work Sans', sans-serif;
+}
+.header{
+  background-image: url(../images/banner/banner1.png); 
+  background-repeat:no-repeat ; 
+  width: 1600px;
+  height: 808px;
+  margin-bottom: 131px;
+  
+  
+}
+.banner{
+    text-align: right;
+}
+.banner-title{
+    font-weight: 700;
+    font-size: 65px;
+    color: #151414;
+    margin-top: 216px;
+    margin-right: 230px;
+    margin-bottom: 24px;
+    padding-top: 200px;
+}
+.banner-subtitle{
+    color:#444343;
+    font-style: normal;
+    font-size: 16px;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 26px;
+    margin-right: 230px;
+    margin-bottom: 32px;
+}
+.orange{
+    margin-bottom: 166px;
+    margin-right: 230px;
+    background: #F15B22;
+    border-radius: 5px;
+    color: white;
+    border: none;
+    width: 160px;
+    height: 64px;
+    font-size: 20px;
+    font-weight: 600;
+    padding: 20px , 25px;
+    
+}
+
+.main{
+    background-color: blanchedalmond;
+}
+.person-info{
+    display: flex;
+    text-align: right;
+    margin-bottom: 315px;
+    gap: 90px;
+}
+.person-info-container{
+    margin-left: 860px;
+    margin-right: 300px;
+    margin-top: 370px;
+
+
+}
+.info-title{
+    font-weight: 700;
+    font-size: 40px;
+    color: #151414;
+    margin-right: 20px;
+}
+
+.info-subtitle{
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 26px;
+    text-align: left;
+    margin-top: 24px;
+    color: #444343;
+    margin-left: 55px;
+}
+.info-items{
+    font-weight: 400;
+    font-size: 16px;
+    margin-top: 16px;
+    color: #444343;
+    text-align: left;
+    margin-left: 55px;
+}
+.li1{
+    margin-bottom: 8px;
+}
+.li2{
+    margin-bottom: 8px;
+}
+.li3{
+    margin-bottom: 8px;
+}
+.li4{
+    margin-bottom: 8px;
+}
+.li5{
+    margin-top: 8px;
+}
+.person-image{
+    position: absolute;
+    margin-left: 210px;
+    margin-top: 135px;
+    margin-bottom: 130px;
+   
+}
+.plan-title{
+    text-align: center;
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 47px;
+    margin-bottom: 50px;
+}
+.plan-description{
+    display: flex;
+    gap: 50px;
+    justify-content:space-around ;
+    margin-left: 150px;
+    margin-right: 150px;
+}
+.plan-item-name{
+    text-align: center;
+    font-weight: 700;
+    font-size: 30px;
+    line-height: 35px;
+    margin-bottom: 20px;
+}
+.plan-item-description{
+    text-align: center;
+    font-weight: 500;
+    font-size: 25px;
+    line-height: 29px;
+    color: #737272;
+    margin-bottom: 130px;
+
+}
+.plan-image{
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    margin-bottom: 20px;
+}
+.contact{
+    background-image: url(/images/watch.png);
+    background-repeat: no-repeat;
+    width: 1140px;
+    height: 300px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    margin-bottom: 130px;
+}
+.contact-title{
+    text-align: left;
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 47px;
+    color: white;
+    padding-top: 60px;
+    padding-bottom: 40px;
+    padding-left: 64px;
+    
+}
+.white{
+    width: 160px;
+    height: 64px;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 23px;
+    text-align: center;
+    color: #F15B22;
+    margin-left: 64px;
+    margin-bottom: 60px;
+    background-color: white;
+    border-radius: 5px;
+    border: none;
+
+    
+}
