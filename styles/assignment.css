@@ -111,6 +111,9 @@
     margin-bottom: 130px;
    
 }
+.my-plans{
+    align-items: center;
+}
 .plan-title{
     text-align: center;
     font-weight: 700;
@@ -190,7 +193,7 @@
     font-size: 40px;
     line-height: 47px;
     color: rgb(0, 0, 0);
-    margin-bottom: 150px;
+    margin-bottom: 50px;
 }
 .bucket-list-item{
     display: flex;
@@ -199,9 +202,6 @@
     margin-right: 50px;
     object-position: center;
 
-}
-.list-pic{
-    border-radius: 20px;
 }
 .item-name{
     text-align: center;
